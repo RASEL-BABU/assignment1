@@ -70,7 +70,8 @@
     margin-top: 15px;
 
 }
-.my-plans{
+
+.my-plans {
     margin-left: 150px;
     margin-right: 150px;
 }
@@ -95,10 +96,41 @@
     padding-bottom: 20px;
     text-align: center;
 }
-.plan-description{
+
+.plan-description {
     font-size: 25px;
     font-weight: 500;
     padding-right: 80px;
     padding-top: 10px;
+
+}
+
+.btn-call {
+    padding: 15px 35px;
+    background: white;
+    border: none;
+    color: #F15B22;
+    font-size: 15px;
+    margin-top: 200px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.others {
+    background-image: url("./images/watch.png");
+    background-repeat: no-repeat;
+    margin:230px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(175, 34, 241, 0.349) 100%);
+}
+.btn2{
+   padding-right: 100px;
+ margin-bottom: 1000px;
+
+
+}
+.head-title{
+    font-size: 30px;
+    color: #FFFFFF;
+    margin-top: 100px;
 
 }
