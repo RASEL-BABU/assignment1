@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* banner design */
+
+.banner-container {
+     height: 120vh;
+    width: 100%; 
+    background-image: url("./images/banner1.png");
+    text-align: right; 
+
+}
+
+.content-title {
+    font-style: bold;
+    font-size: 60px;
+    margin-right: 200px;
+    padding-top: 200px;
+}
+
+.content {
+    font-size: 16px;
+    margin-right: 200px;
+    margin-left: 800px;
+}
+
+.btn-contact {
+    padding: 15px 35px;
+    background: #F15B22;
+    border: none;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+.btn {
+    text-align: right;
+    padding-right: 200px;
+    padding-top: 20px;
+}
+.main-content{
+    display:flex;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right:100px;
+    text-align: center;
+}
+.title{
+    font-size: 50px;
+    padding-top: 180px;
+    padding-bottom:10px;
+}
+.content-description{
+    padding-left:140px;
+    font-size:16px;
+    padding-top:10px;
+    padding-bottom: 10px;
+
+
+}
+.check{
+    justify-content: left;
+    display:flex;
+    padding-left: 150px;
+    margin-top: 15px;
+    
+}
