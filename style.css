@@ -69,6 +69,8 @@
     display: flex;
     padding-left: 150px;
     margin-top: 15px;
+    font-size: 15px;
+    font-weight: 10px;
 
 }
 /* plan section */
@@ -92,16 +94,16 @@
 }
 
 .plan-title {
-    font-weight: 700;
-    font-size: 30px;
+    font-weight: bold;
+    font-size: 25px;
     padding-right: 80px;
     padding-bottom: 20px;
     text-align: center;
 }
 
 .plan-description {
-    font-size: 25px;
-    font-weight: 500;
+    font-size: 20px;
+    font-weight: 100px;
     padding-right: 80px;
     padding-top: 10px;
 
@@ -113,7 +115,7 @@
     border: none;
     color: #F15B22;
     font-size: 15px;
-    margin-top: 20px;
+    margin-top: 30px;
     font-weight: bold;
     /* text-align: center; */
 }
@@ -123,12 +125,15 @@
     background-image: url("./images/watch.png");
     background-repeat: no-repeat;
     margin: 230px;
+    background: linear-gradient(90deg, #F15B22 0%,rgba(241,0,0,0)100%);
 
 }
 
 .btn2 {
-    padding-right: 10px;
-    margin-bottom: 10px;
+    text-align: right;
+    padding-bottom:50px;
+    padding-right: 700px;
+
 
 
 }
