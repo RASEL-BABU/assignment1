@@ -137,11 +137,10 @@
 
 /* other content */
 .others {
-    background-image: url("./images/watch.png");
+    /* background-image: url("./images/watch.png"); */
     background-repeat: no-repeat;
     margin: 230px;
-    background: linear-gradient(90deg, #F15B22 0%, rgba(20, 20, 0, 0)100%);
-
+   
 }
 
 
